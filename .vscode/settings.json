@@ -1,0 +1,9 @@
+{
+    // More settings...
+    "templ.log": "/Users/adam/templ.log",
+    "templ.goplsLog": "/Users/adam/gopls.log",
+    "templ.http": "localhost:7575",
+    "templ.goplsRPCTrace": true,
+    "templ.pprof": false,
+    // More stuff...
+}
